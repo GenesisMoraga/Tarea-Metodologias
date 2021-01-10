@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.github.cc3002.citricjuice.model.DiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-07-26T03:04:00" hostname="DESKTOP-U14D24J" time="0.0">
+  <properties/>
+  <testcase name="rollTest()" classname="com.github.cc3002.citricjuice.model.DiceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
